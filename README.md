@@ -1,0 +1,1 @@
+Vetülettan gyakorlati feladatok
