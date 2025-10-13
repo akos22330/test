@@ -1,0 +1,5 @@
+<input type="text" value="felhasználónév">
+<input type="password" value="jelszó">
+<input type="submit" value="Bejelentkezés">
+
+Harmadjára megadtam az input adatokat.
